@@ -1,6 +1,6 @@
 {
   "name": "cams-biometrics-agent",
-  "version": "1.0.0",
+  "version": "v1.0.0",
   "description": "View and manage Cams Biometrics devices, device users and attendance from Gemini CLI.",
   "mcpServers": {
     "cams-biometrics-agent": {
